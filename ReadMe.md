@@ -20,7 +20,7 @@ Seyahat Uygulaması, kullanıcıların seyahat etmek istedikleri lokasyonları h
 
 - Node.js ve npm
 - .NET SDK
-- MongoDB veya NoSQL veritabanı (alternatif olarak, MongoDB Atlas kullanılabilir)
+- MongoDB veya NoSQL veritabanı 
 
 ### Frontend Kurulumu
 
