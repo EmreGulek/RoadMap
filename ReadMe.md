@@ -24,7 +24,7 @@ Seyahat Uygulaması, kullanıcıların seyahat etmek istedikleri lokasyonları h
 
 ### Frontend Kurulumu
 
-1. **Proje dosyasını klonlayın:**
+**Proje dosyasını klonlayın:**
 
    ```bash
    git clone https://github.com/kullanici/seyahat-uygulamasi.git
